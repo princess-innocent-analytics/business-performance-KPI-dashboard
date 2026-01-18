@@ -1,0 +1,144 @@
+Project 1: Business Performance KPI Dashboard
+Project Timeline & Daily Breakdown
+
+Day 1 – Project Setup & Data Understanding
+
+* Focus of the day: Project planning, data familiarisation, and KPI definition.
+
+* What I did:
+
+- Defined the business objective: analysing overall business performance using key metrics.
+
+Reviewed the dataset to understand available fields (orders, sales, profit, quantity, dates, regions, and categories).
+
+* Identified core KPIs required for decision-making:
+
+-Total Orders
+
+- Total Quantity
+
+- Total Sales
+
+- Total Profit
+
+* Created the project folder structure and prepared files for analysis.
+
+* Outcome:
+
+- Clear understanding of the dataset.
+
+- KPIs aligned with business performance goals.
+
+- Project scope and dashboard structure defined.
+
+
+
+
+Day 2 – Data Cleaning & Transformation
+
+* Focus of the day: Preparing clean, analysis-ready data.
+
+* What I did:
+
+- Imported the dataset into Power BI.
+
+* Cleaned and transformed the data using Power Query Editor:
+
+- Checked data types and corrected inconsistencies.
+
+- Removed duplicates and irrelevant columns.
+
+- Ensured date fields were properly formatted for time-based analysis.
+
+- Validated data accuracy before analysis.
+
+* Outcome:
+
+Clean, structured dataset ready for KPI calculations.
+
+Reliable foundation for analysis and visualisation.
+
+
+
+
+Day 3 – KPI Creation & Analysis
+
+* Focus of the day: KPI calculation and analytical insights.
+
+* What I did:
+
+* Created calculated measures for:
+
+- Total Orders
+
+- Total Quantity
+
+- Total Sales
+
+- Total Profit
+
+* Analysed trends across:
+
+- Time (yearly and monthly performance)
+
+- Product categories
+
+- Regions
+
+- Identified key patterns such as top-performing regions and categories.
+
+* Outcome:
+
+- Accurate KPIs reflecting business performance.
+
+- Analytical insights to support strategic decision-making.
+
+
+
+
+Day 4 – Dashboard Design, Insights & Recommendations
+
+* Focus of the day: Visual storytelling and business value delivery.
+
+* What I did:
+
+- Designed an interactive Business Performance KPI Dashboard in Power BI.
+
+* Added visuals including:
+
+- KPI cards
+
+- Line charts for trends
+
+- Bar charts for regional and category performance
+
+- Slicers for user interaction
+
+- Wrote a structured Insights & Recommendations document explaining findings in business terms.
+
+- Reviewed and polished the dashboard for clarity and presentation.
+
+* Outcome:
+
+- Final, professional Power BI dashboard.
+
+- Clear insights highlighting performance strengths and improvement opportunities.
+
+- Business-ready recommendations suitable for stakeholders.
+
+* Project Completion
+
+* This project demonstrates:
+
+- End-to-end business intelligence workflow
+
+- KPI design and analysis
+
+- Data cleaning and transformation
+
+- Interactive dashboard development
+
+- Business-focused insights and recommendations
+
+Author:
+Princess (Adaku) Innocent
